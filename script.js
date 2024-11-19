@@ -2,12 +2,12 @@ const questions = [
     {
         question: "What is 20% of 150?",
         options: ["15", "30", "25", "35"],
-        correct: 1
+        correct: 2
     },
     {
         question: "If an item costs $200 and is sold at a 25% discount, what is the discounted price?",
         options: ["$150", "$175", "$125", "$160"],
-        correct: 1
+        correct: 0
     },
     {
         question: "What is the result of approximating 47.89 to the nearest whole number?",
@@ -32,12 +32,12 @@ const questions = [
     {
         question: "What is the percentage increase from 40 to 50?",
         options: ["20%", "25%", "15%", "10%"],
-        correct: 1
+        correct: 2
     },
     {
         question: "Approximate 16.7 × 3.9 to the nearest ten",
         options: ["60", "70", "65", "55"],
-        correct: 1
+        correct: 2
     },
     {
         question: "If 30% of a number is 45, what is the number?",
